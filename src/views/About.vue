@@ -1,5 +1,18 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="about bg-primary">
+    <contact></contact>
   </div>
 </template>
+
+<script>
+import Contact from "@/components/Contact";
+export default {
+  name: "about",
+  components: {
+    Contact
+  }
+};
+</script>
+
+<style>
+</style>
