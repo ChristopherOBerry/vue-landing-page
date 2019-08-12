@@ -8,9 +8,9 @@
         <h5 class="text-center">Software Developer and Content Manager</h5>
       </div>
     </div>
-    <div class="row bg-info rounded border text-center">
+    <div class="row rounded text-center">
       <div class="row d-flex justify-content-center">
-        <div class="col">
+        <div class="col-sm-6 bg-info border">
           <h1 class="align-self-center my-4">About Me</h1>
           <p class="align-self-center">
             <img
@@ -31,7 +31,7 @@
             <a
               target="_blank"
               href="http://www.quietspeculation.com"
-            >QuietSpeculation.com</a>, where I utilize WordPress and HTML5 to create and edit content pieces.
+            >QuietSpeculation.com</a> where I manage a team of authors, particpate in Marketing and Content Direction strategizing, and utilize WordPress with HTML5 to create and edit content pieces.
           </p>
         </div>
       </div>

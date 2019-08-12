@@ -18,7 +18,7 @@
         </p>
       </div>
       <div class="col-6 text-center">
-        <a href="https://www.linkedin.com/in/christopher-o-berry-b80183188" target="_blank">
+        <a href="https://www.linkedin.com/in/christopher-o-berry" target="_blank">
           <p class="btn btn-info border">
             <i class="fab fa-linkedin"></i>LinkedIn
           </p>
