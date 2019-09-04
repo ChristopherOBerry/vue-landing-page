@@ -13,19 +13,14 @@
         <div class="col-sm-6 bg-info border">
           <h1 class="align-self-center my-4">About Me</h1>
           <p class="align-self-center">
-            <img
-              class="img-fluid"
-              src="../assets/codeworks-logo.png"
-              alt="codeworks logo"
-              style="height:5vh;"
-            /> I am currently attending
+            I am a recent graduate of the
             <a
               target="_blank"
               href="https://boisecodeworks.com/"
-            >Boise CodeWorks</a> for experience and certification on building full-stack web applications. Working with Javascript, HTML, CSS, Bootstrap, Node.js, Vue.js, C#, MySQL, MongoDB, Dapper, Postman, OOP, REST API Design, and Observer Pattern. During my time at CodeWorks, I have worked on several projects, both solo and collaboratively.
+            >Boise CodeWorks</a> full-stack program, for experience and certification on building full-stack web applications. Working with Javascript, HTML, CSS, Bootstrap, Node.js, Vue.js, C#, MySQL, MongoDB, Dapper, Postman, OOP, REST API Design, and Observer Pattern. During my time at CodeWorks, I have worked on several projects, both solo and collaboratively.
           </p>
 
-          <p>In the future, I hope to pursue a career in Web Development specializing in Front-End development.</p>
+          <p>I hope to pursue a career in Web Development specializing in Front-End development.</p>
           <p>
             At present, I am serving the role of Content Manager for
             <a

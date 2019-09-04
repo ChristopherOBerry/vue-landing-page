@@ -35,12 +35,12 @@
             <p
               class="text-primary"
             >Utilized Vue.js, Javascript, Bootstrap4, HTML5, CSS3, MongoDB, Mongoose, Node.js, Vue-Draggable, Socket.IO, Geo-location Services, Google Places, and Google Maps API.</p>
-            <a target="_blank" href="#" class="card-link btn btn-primary">Repo</a>
             <a
               target="_blank"
-              href="https://bcw-capstone-wafl.herokuapp.com/#/"
-              class="card-link btn btn-info"
-            >Live</a>
+              href="https://github.com/AnErrantRake/bcw-capstone"
+              class="card-link btn btn-primary"
+            >Repo</a>
+            <a target="_blank" href="https://wafl.herokuapp.com" class="card-link btn btn-info">Live</a>
           </div>
         </div>
       </div>
